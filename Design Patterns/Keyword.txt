@@ -1,0 +1,27 @@
+
+Creational Patterns 
+	Abstract - Dependency , Dependent Object
+	Builder - Diff Representation 
+	Factory - Template / Framework
+	Prototype - Copy / Blueprints
+	Singleton - Global Points
+Structural Patterns
+	Adapter  - Compatibilty
+	Bridge   - Decouple
+	Composite - Hierarchy
+	Decorator - Additional Functionality
+	Façade - Set of Objects/Interface/Things
+	Flyweight - Sharing of Diff Objects
+	Proxy - Placeholder / substitute
+Behavioral Patterns
+	Chain of Resp - Recursivity
+	Command - Black Box Approach
+	Interpreter - Interpreter
+	Iterator - Aggregation
+	Mediator - Independent Interactions
+	Memento - Roll back /mdo
+	Observer - one to many dependendices
+	State - Transitions
+	Strategy - Interchangeable, Swapping
+	Template - Similar Sturcture
+	Visitor - Distinct
